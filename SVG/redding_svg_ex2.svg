@@ -16,21 +16,41 @@
 
 
     <g class="Tahiti">
-        <rect x="120" y="98" width="60" height="202" fill="steelblue"/>
+        <rect x="120" y="98" width="60" height="202" fill="steelblue"><animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate></rect>
         <text x="150" y="320" text-anchor="middle">Tahiti</text>
         <text x="150" y="90" text-anchor="middle" font-size="12">404</text>
     </g>
 
 
     <g class="Tongatapu">
-        <rect x="220" y="250" width="60" height="50" fill="seagreen"/>
+        <rect x="220" y="250" width="60" height="50" fill="seagreen"><animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate></rect>
         <text x="250" y="320" text-anchor="middle">Tongatapu</text>
         <text x="250" y="245" text-anchor="middle" font-size="12">100</text>
     </g>
 
 
     <g class="Raiatea">
-        <rect x="320" y="267.5" width="60" height="32.5" fill="tomato"/>
+        <rect x="320" y="267.5" width="60" height="32.5" fill="tomato">
+            <animate
+                attributeName="height"
+                begin="0s"
+                dur="3s"
+                from="267.5"
+                to="235"
+                ></animate>
+        </rect>
         <text x="350" y="320" text-anchor="middle">Raiatea</text>
         <text x="350" y="262" text-anchor="middle" font-size="12">65</text>
     </g>
