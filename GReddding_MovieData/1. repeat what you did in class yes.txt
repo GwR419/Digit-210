@@ -1,0 +1,5 @@
+1. repeat what you did in class yesterday. 
+2. finding and replacimg the & with &amp.
+3. marking the title <movie>(.*?)\t finsing with this replacing with this <movie><title>\1</title>\t.
+4. marking the date </title>\t(\d{4})\t finsing with this replacing with this </title><date>\1</date>\t.
+Then  got stuck on location.
