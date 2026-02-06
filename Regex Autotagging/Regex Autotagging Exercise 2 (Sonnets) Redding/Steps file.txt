@@ -1,0 +1,5 @@
+step one i cleaned up the project and started fixing the &, ,<,> if there is any.
+I then found and replaced the leading spaced using ^+ a the find and nothing as the replace.
+3. Then i used (.+) to find all non-blank lines as the tag <line> and replaced it with <line>\1</line>
+4. The almost the same thing with 0the numbers to roman numerals <line>([IVXLC]+)</line> was the find </sonnet><sonnet number="\1"> was the replace. 
+5. Then i added the xml header and footer.
