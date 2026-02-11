@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:cbml="http://www.cbml.org/ns/1.0"
+     width="100%"
+     height="100%">
+   <text x="40" y="30" font-size="18">
+               These are graphs to show the Dialogue Proportions of each character who spoke in chapter 1 of Golden Experience Requiem
+            </text>
+   <rect x="110"
+         y="80"
+         width="90"
+         height="164.285714285714285711"
+         fill="hsl(60,70%,60%)"/>
+   <text x="220"
+         y="162.1428571428571428555"
+         font-size="14"
+         dominant-baseline="middle">#diavolo
+                    -
+                    30%
+                    
+                </text>
+   <rect x="110"
+         y="319.999999999999999996"
+         width="90"
+         height="121.428571428571428569"
+         fill="hsl(120,70%,60%)"/>
+   <text x="220"
+         y="380.7142857142857142805"
+         font-size="14"
+         dominant-baseline="middle">#trish
+                    -
+                    22%
+                    
+                </text>
+   <rect x="110"
+         y="607.142857142857142849"
+         width="90"
+         height="78.571428571428571427"
+         fill="hsl(180,70%,60%)"/>
+   <text x="220"
+         y="646.4285714285714285625"
+         font-size="14"
+         dominant-baseline="middle">#giorno #gold_experience_requiem
+                    -
+                    14%
+                    
+                </text>
+   <rect x="110"
+         y="461.428571428571428565"
+         width="90"
+         height="64.285714285714285713"
+         fill="hsl(240,70%,60%)"/>
+   <text x="220"
+         y="493.5714285714285714215"
+         font-size="14"
+         dominant-baseline="middle">diavolo
+                    -
+                    12%
+                    
+                </text>
+   <rect x="110"
+         y="705.714285714285714276"
+         width="90"
+         height="64.285714285714285713"
+         fill="hsl(300,70%,60%)"/>
+   <text x="220"
+         y="737.8571428571428571325"
+         font-size="14"
+         dominant-baseline="middle">#diavolo #king_crimson
+                    -
+                    12%
+                    
+                </text>
+   <rect x="110"
+         y="264.285714285714285711"
+         width="90"
+         height="35.714285714285714285"
+         fill="hsl(360,70%,60%)"/>
+   <text x="220"
+         y="282.1428571428571428535"
+         font-size="14"
+         dominant-baseline="middle">#mista
+                    -
+                    6%
+                    
+                </text>
+   <rect x="110"
+         y="545.714285714285714278"
+         width="90"
+         height="14.285714285714285714"
+         fill="hsl(420,70%,60%)"/>
+   <text x="220"
+         y="552.857142857142857135"
+         font-size="14"
+         dominant-baseline="middle">mista
+                    -
+                    3%
+                    
+                </text>
+   <rect x="110"
+         y="579.999999999999999992"
+         width="90"
+         height="7.142857142857142857"
+         fill="hsl(480,70%,60%)"/>
+   <text x="220"
+         y="583.5714285714285714205"
+         font-size="14"
+         dominant-baseline="middle">#king_crimson
+                    -
+                    1%
+                    
+                </text>
+</svg>
