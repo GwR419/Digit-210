@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:cbml="http://www.cbml.org/ns/1.0"
+     width="600"
+     height="200">
+   <text x="50" y="30" font-size="18">
+                Dialogue Proportions by Character
+            </text>
+   <rect x="50"
+         y="60"
+         width="149.350649350649350638"
+         height="50"
+         fill="hsl(60,70%,60%)"/>
+   <text x="55" y="90" font-size="12">#diavolo
+                    (23)
+                    
+                </text>
+   <rect x="199.350649350649350638"
+         y="60"
+         width="32.46753246753246753"
+         height="50"
+         fill="hsl(120,70%,60%)"/>
+   <text x="204.350649350649350638" y="90" font-size="12">#mista
+                    (5)
+                    
+                </text>
+   <rect x="231.818181818181818168"
+         y="60"
+         width="110.389610389610389602"
+         height="50"
+         fill="hsl(180,70%,60%)"/>
+   <text x="236.818181818181818168" y="90" font-size="12">#trish
+                    (17)
+                    
+                </text>
+   <rect x="342.20779220779220777"
+         y="60"
+         width="58.441558441558441554"
+         height="50"
+         fill="hsl(240,70%,60%)"/>
+   <text x="347.20779220779220777" y="90" font-size="12">diavolo
+                    (9)
+                    
+                </text>
+   <rect x="400.649350649350649324"
+         y="60"
+         width="12.987012987012987012"
+         height="50"
+         fill="hsl(300,70%,60%)"/>
+   <text x="405.649350649350649324" y="90" font-size="12">mista
+                    (2)
+                    
+                </text>
+   <rect x="413.636363636363636336"
+         y="60"
+         width="6.493506493506493506"
+         height="50"
+         fill="hsl(360,70%,60%)"/>
+   <text x="418.636363636363636336" y="90" font-size="12">#king_crimson
+                    (1)
+                    
+                </text>
+   <rect x="420.129870129870129842"
+         y="60"
+         width="71.428571428571428566"
+         height="50"
+         fill="hsl(420,70%,60%)"/>
+   <text x="425.129870129870129842" y="90" font-size="12">#giorno #gold_experience_requiem
+                    (11)
+                    
+                </text>
+   <rect x="491.558441558441558408"
+         y="60"
+         width="58.441558441558441554"
+         height="50"
+         fill="hsl(480,70%,60%)"/>
+   <text x="496.558441558441558408" y="90" font-size="12">#diavolo #king_crimson
+                    (9)
+                    
+                </text>
+</svg>
