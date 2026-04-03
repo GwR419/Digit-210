@@ -1,0 +1,38 @@
+doc = header, moves.
+
+header = line, line, line, line, line, line, lastline, nl.
+
+moves = move+.
+
+move = name, sep,
+       type, sep,
+       category, sep,
+       power, sep,
+       accuracy, sep,
+       pp, sep,
+       effect, nl.
+
+name = word, (space, word)?.
+type = word.
+category = word, ("."?).
+power = number | dash.
+accuracy = number | dash.
+pp = number.
+effect = ~[#9;#a;#d]+.
+
+word = letter+.
+number = digit+.
+
+sep = (space?, tab).
+space = #20.
+tab = #9.
+
+dash = #2014.
+
+line = ~[#a;#d]+, nl.
+lastline = ~[#a;#d]+.
+
+nl = #a | #d.
+
+letter = ["A"-"Z" | "a"-"z"].
+digit = ["0"-"9"].
