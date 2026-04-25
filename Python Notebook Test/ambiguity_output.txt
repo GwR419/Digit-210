@@ -1,0 +1,35 @@
+=== Corpus 1: Episodes (04) ===
+
+broke: 59 synsets
+break: 59 synsets
+breaking: 59 synsets
+broken: 59 synsets
+make: 49 synsets
+making: 49 synsets
+made: 49 synsets
+makes: 49 synsets
+give: 44 synsets
+given: 44 synsets
+gave: 44 synsets
+gives: 44 synsets
+giving: 44 synsets
+take: 42 synsets
+took: 42 synsets
+
+=== Corpus 2: Characters (03) ===
+
+broken: 59 synsets
+break: 59 synsets
+breaking: 59 synsets
+broke: 59 synsets
+making: 49 synsets
+made: 49 synsets
+make: 49 synsets
+makes: 49 synsets
+gave: 44 synsets
+give: 44 synsets
+gives: 44 synsets
+giving: 44 synsets
+given: 44 synsets
+take: 42 synsets
+took: 42 synsets
